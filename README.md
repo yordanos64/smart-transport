@@ -1,4 +1,3 @@
-To create your `README.md` file for the Smart Public Transport App (built with the MERN stack to optimize routes, slash wait times via real-time updates, and cut emissions through efficient pathing), follow these quick steps. This file is crucial for documenting your project, making it easy for reviewers (like PLP graders) to understand how your app promotes sustainable urban mobility under SDG 11.
 
 ### Where to Create It
 - **Location**: In the **root folder** of your project (e.g., `SDG11-SMART-TRANSPORT/` or whatever you named it). Not inside `client/`, `server/`, or `docs/`—right at the top level.
